@@ -26,7 +26,7 @@ namespace BambooTest
         {
             return a * b;
         }
-        public int Div(int a, int b)
+        public inta Div(int a, int b)
         {
             if (a < b)
             {
