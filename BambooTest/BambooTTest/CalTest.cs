@@ -35,7 +35,7 @@ namespace BambooTTest
         public void Div()
         {
             Calculate ex = new Calculate();
-            Assert.AreEqual(6, ex.Div(48, 8));
+            Assert.AreEqual(6, ex.Div(48, 6));
         }
     }
 }
